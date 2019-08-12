@@ -17,4 +17,4 @@ The researchers created two types of attacks.
 1) Impersination 
 2) Dodgning
 
-Both attacks are done by optimizing  a softmaxloss function that gets lower if the FR detected correctly and vise versa
+Both attacks are done by optimizing  a softmaxloss function that gets lower if the FR detected correctly and vise versa. The success rate of these attacks ranges from 91.67 to 100% . 
