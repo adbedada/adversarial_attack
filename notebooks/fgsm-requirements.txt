@@ -1,0 +1,4 @@
+foolbox
+keras
+numpy
+matplotlib
