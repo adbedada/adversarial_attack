@@ -6,3 +6,4 @@ notebooks/public_release/
 *.pdf
 *.jpg
 notebooks/.DS_Store
+notebooks/*.txt
