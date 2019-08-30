@@ -1,9 +1,0 @@
-PIL
-numpy
-six
-tensorflow
-# object_detection [ conda install tf_object_detection]
-matplotlib
-zipfile
-tarfile
-collections

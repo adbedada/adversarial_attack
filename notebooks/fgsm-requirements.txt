@@ -1,4 +1,0 @@
-foolbox
-keras
-numpy
-matplotlib
