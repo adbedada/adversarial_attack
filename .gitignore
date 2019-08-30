@@ -4,6 +4,5 @@ packages/
 notebooks/.ipynb_checkpoints/
 notebooks/public_release/
 *.pdf
-*.jpg
-notebooks/.DS_Store
-notebooks/*-requirements.txt
+*.DS_Store
+*.txt
